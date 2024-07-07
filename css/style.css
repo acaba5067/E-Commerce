@@ -1,0 +1,8 @@
+*{
+         direction: rtl;
+}
+.bb{
+         width: 20px !important;
+         height: 20px !important;
+         border-radius: 50% !important;
+}
