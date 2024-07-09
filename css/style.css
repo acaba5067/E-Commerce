@@ -6,3 +6,10 @@
          height: 20px !important;
          border-radius: 50% !important;
 }
+.back{
+         background-image: url(../images/img_avatar1.png);
+         background-position: center;
+         background-size: cover;
+         background-attachment: fixed;
+         height: 300px;
+}
